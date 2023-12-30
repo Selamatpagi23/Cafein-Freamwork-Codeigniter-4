@@ -1,0 +1,641 @@
+CRITICAL - 2023-11-29 00:36:27 --> Maximum execution time of 30 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-11-29 00:59:51 --> syntax error, unexpected variable "$this"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 00:59:52 --> syntax error, unexpected variable "$this"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 00:59:53 --> syntax error, unexpected variable "$this"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 00:59:54 --> syntax error, unexpected variable "$this"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 00:59:55 --> syntax error, unexpected variable "$this"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 00:59:56 --> syntax error, unexpected variable "$this"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 00:59:57 --> syntax error, unexpected variable "$this"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 00:59:57 --> syntax error, unexpected variable "$this"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 00:59:59 --> syntax error, unexpected variable "$this"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 00:59:59 --> syntax error, unexpected variable "$this"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:01 --> syntax error, unexpected variable "$this"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:20 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:21 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:22 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:23 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:23 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:24 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:25 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:26 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:27 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:29 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:29 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:30 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:32 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:33 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:33 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:34 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:35 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:36 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:37 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:39 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:39 --> syntax error, unexpected token ")", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:48 --> syntax error, unexpected token "++", expecting ")"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:50 --> syntax error, unexpected token "++", expecting ")"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:00:51 --> syntax error, unexpected token "++", expecting ")"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:01:24 --> syntax error, unexpected token "]"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:01:26 --> syntax error, unexpected token "]"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:01:26 --> syntax error, unexpected token "]"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:01:32 --> Cannot use [] for reading
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-11-29 01:01:33 --> Cannot use [] for reading
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-11-29 01:01:34 --> Cannot use [] for reading
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-11-29 01:01:38 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:01:40 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:01:40 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:01:41 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:02:47 --> count(): Argument #1 ($value) must be of type Countable|array, string given
+#0 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(92): count('7.440')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->tambahPesanan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:05:23 --> Uninitialized string offset 3
+#0 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Uninitialized s...', 'C:\\xampp\\htdocs...', 89)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->tambahPesanan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:06:06 --> Uninitialized string offset 3
+#0 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Uninitialized s...', 'C:\\xampp\\htdocs...', 89)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->tambahPesanan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:07:55 --> Uninitialized string offset 3
+#0 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Uninitialized s...', 'C:\\xampp\\htdocs...', 89)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->tambahPesanan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:13:28 --> Uninitialized string offset 3
+#0 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Uninitialized s...', 'C:\\xampp\\htdocs...', 89)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->tambahPesanan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:20:01 --> Uninitialized string offset 3
+#0 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Uninitialized s...', 'C:\\xampp\\htdocs...', 89)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->tambahPesanan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 01:28:33 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701242910.9333, 7, 115, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-29 01:29:06 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701242944.779, 7, 60, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-29 01:52:48 --> Undefined variable $totalTime
+#0 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-29 01:52:53 --> Undefined variable $meta
+#0 C:\xampp\htdocs\cafein\app\Views\navbar-front-end\index.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4)
+#1 C:\xampp\htdocs\cafein\app\Views\about.php(60): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('about', Array, true)
+#5 C:\xampp\htdocs\cafein\app\Controllers\About.php(11): view('about')
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\About->index()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-29 01:53:07 --> unlink(C:\xampp\htdocs\cafein\writable\debugbar/debugbar_1701244361.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp...', 'C:\\xampp\\htdocs...', 74)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\History.php(74): unlink('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1701244381, 20)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-29 02:21:21 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701246079.7903, 7, 50, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-29 02:21:33 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701246092.2911, 7, 55, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-29 02:24:04 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701246240.1746, 7, 70, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-29 02:27:45 --> file_get_contents(C:\xampp\htdocs\cafein\writable\debugbar/debugbar_1701246436.json): Failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\xampp\\htdocs...', 80)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\History.php(80): file_get_contents('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1701246453, 20)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-29 02:28:40 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701246518.6801, 7, 85, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-29 02:33:26 --> Undefined array key 1
+#0 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 89)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->tambahPesanan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 02:38:49 --> Undefined array key 1
+#0 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 89)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->tambahPesanan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 07:12:57 --> file_get_contents(C:\xampp\htdocs\cafein\writable\debugbar/debugbar_1701247868.json): Failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\xampp\\htdocs...', 80)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\History.php(80): file_get_contents('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1701263572, 20)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-29 07:13:34 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701263591.0669, 7, 225, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-29 07:14:56 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701263695.0129, 7, 80, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-29 07:15:50 --> Undefined variable $meta
+#0 C:\xampp\htdocs\cafein\app\Views\navbar-front-end\index.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4)
+#1 C:\xampp\htdocs\cafein\app\Views\about.php(60): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('about', Array, true)
+#5 C:\xampp\htdocs\cafein\app\Controllers\About.php(11): view('about')
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\About->index()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-29 07:39:58 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701265188.9699, 7, 250, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-29 07:40:30 --> Undefined variable $totalTime
+#0 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-29 07:41:48 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701265304.7909, 7, 160, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-29 07:43:13 --> Undefined variable $totalTime
+#0 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-29 07:45:02 --> Undefined array key "total_bayar"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 101)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanAntrian()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 07:45:35 --> Undefined array key "total_bayar"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 101)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanAntrian()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-29 07:46:21 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701265577.9067, 7, 110, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-29 07:49:06 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701265744.8702, 7, 70, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-29 07:59:00 --> Undefined variable $meta
+#0 C:\xampp\htdocs\cafein\app\Views\login_admin.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 8)
+#1 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('login_admin', Array, true)
+#4 C:\xampp\htdocs\cafein\app\Controllers\Admin.php(15): view('login_admin')
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Admin->index()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-29 08:23:17 --> file_get_contents(C:\xampp\htdocs\cafein\writable\debugbar/debugbar_1701267739.json): Failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\xampp\\htdocs...', 80)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\History.php(80): file_get_contents('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1701267788, 20)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-29 08:23:17 --> unlink(C:\xampp\htdocs\cafein\writable\debugbar/debugbar_1701267739.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp...', 'C:\\xampp\\htdocs...', 74)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\History.php(74): unlink('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1701267782, 20)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-29 08:53:51 --> Undefined variable $totalTime
+#0 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

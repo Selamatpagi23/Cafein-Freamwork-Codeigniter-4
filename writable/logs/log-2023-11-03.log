@@ -1,0 +1,284 @@
+CRITICAL - 2023-11-03 01:02:29 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\Membership.php(52): CodeIgniter\Model->update('7', Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Membership->hapusData()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Membership))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 01:02:31 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\Membership.php(52): CodeIgniter\Model->update('7', Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Membership->hapusData()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Membership))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 01:02:32 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\Membership.php(52): CodeIgniter\Model->update('7', Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Membership->hapusData()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Membership))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 01:02:32 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\Membership.php(52): CodeIgniter\Model->update('7', Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Membership->hapusData()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Membership))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 01:02:32 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\Membership.php(52): CodeIgniter\Model->update('7', Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Membership->hapusData()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Membership))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 01:02:33 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\Membership.php(52): CodeIgniter\Model->update('7', Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Membership->hapusData()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Membership))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 01:02:33 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\Membership.php(52): CodeIgniter\Model->update('7', Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Membership->hapusData()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Membership))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 01:02:33 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\Membership.php(52): CodeIgniter\Model->update('7', Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Membership->hapusData()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Membership))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 01:02:36 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\Membership.php(52): CodeIgniter\Model->update('7', Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Membership->hapusData()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Membership))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 01:02:36 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\Membership.php(52): CodeIgniter\Model->update('7', Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Membership->hapusData()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Membership))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 01:02:37 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\Membership.php(52): CodeIgniter\Model->update('7', Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Membership->hapusData()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Membership))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 01:02:42 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\Membership.php(52): CodeIgniter\Model->update('7', Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Membership->hapusData()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Membership))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 01:08:29 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\Membership.php(52): CodeIgniter\Model->update('7', Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Membership->hapusData()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Membership))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 01:08:49 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\Membership.php(52): CodeIgniter\Model->update('7', Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Membership->hapusData()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Membership))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 01:09:49 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\Membership.php(52): CodeIgniter\Model->update('7', Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Membership->hapusData()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Membership))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 08:40:58 --> count(): Argument #1 ($value) must be of type Countable|array, null given
+#0 C:\xampp\htdocs\cafein\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('membership', Array, true)
+#3 C:\xampp\htdocs\cafein\app\Controllers\Membership.php(23): view('membership', Array)
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Membership->index()
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Membership))
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-03 08:41:21 --> Undefined array key "id"
+#0 C:\xampp\htdocs\cafein\app\Views\membership.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 56)
+#1 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('membership', Array, true)
+#4 C:\xampp\htdocs\cafein\app\Controllers\Membership.php(26): view('membership', Array)
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Membership->index()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Membership))
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-03 08:41:23 --> Undefined array key "id"
+#0 C:\xampp\htdocs\cafein\app\Views\membership.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 56)
+#1 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('membership', Array, true)
+#4 C:\xampp\htdocs\cafein\app\Controllers\Membership.php(26): view('membership', Array)
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Membership->index()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Membership))
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-03 10:34:10 --> Undefined variable $user
+#0 C:\xampp\htdocs\cafein\app\Views\template.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 51)
+#1 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cafein\system\View\View.php(230): CodeIgniter\View\View->render('template', Array, true)
+#4 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('antrian', Array, true)
+#5 C:\xampp\htdocs\cafein\app\Controllers\Admin.php(13): view('antrian')
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Admin->index()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-03 10:34:12 --> Undefined variable $user
+#0 C:\xampp\htdocs\cafein\app\Views\template.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 51)
+#1 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cafein\system\View\View.php(230): CodeIgniter\View\View->render('template', Array, true)
+#4 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('antrian', Array, true)
+#5 C:\xampp\htdocs\cafein\app\Controllers\Admin.php(13): view('antrian')
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Admin->index()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-03 10:34:30 --> Undefined variable $user
+#0 C:\xampp\htdocs\cafein\app\Views\template.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 51)
+#1 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cafein\system\View\View.php(230): CodeIgniter\View\View->render('template', Array, true)
+#4 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('antrian', Array, true)
+#5 C:\xampp\htdocs\cafein\app\Controllers\Admin.php(13): view('antrian')
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Admin->index()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-03 10:35:05 --> Undefined variable $user
+#0 C:\xampp\htdocs\cafein\app\Views\template.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 51)
+#1 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cafein\system\View\View.php(230): CodeIgniter\View\View->render('template', Array, true)
+#4 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('antrian', Array, true)
+#5 C:\xampp\htdocs\cafein\app\Controllers\Admin.php(13): view('antrian')
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Admin->index()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-03 10:35:07 --> Undefined variable $user
+#0 C:\xampp\htdocs\cafein\app\Views\template.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 51)
+#1 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cafein\system\View\View.php(230): CodeIgniter\View\View->render('template', Array, true)
+#4 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('antrian', Array, true)
+#5 C:\xampp\htdocs\cafein\app\Controllers\Admin.php(13): view('antrian')
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Admin->index()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-03 10:35:09 --> Undefined variable $user
+#0 C:\xampp\htdocs\cafein\app\Views\template.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 51)
+#1 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cafein\system\View\View.php(230): CodeIgniter\View\View->render('template', Array, true)
+#4 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('antrian', Array, true)
+#5 C:\xampp\htdocs\cafein\app\Controllers\Admin.php(13): view('antrian')
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Admin->index()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-03 20:54:31 --> Call to undefined method App\Models\UsersModel::isEmailExists
+#0 C:\xampp\htdocs\cafein\app\Controllers\Register.php(37): CodeIgniter\Model->__call('isEmailExists', Array)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Register->daftar_pelanggan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Register))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-03 20:54:52 --> Call to undefined method App\Models\UsersModel::isEmailExists
+#0 C:\xampp\htdocs\cafein\app\Controllers\Register.php(37): CodeIgniter\Model->__call('isEmailExists', Array)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Register->daftar_pelanggan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Register))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-03 20:56:15 --> Call to undefined method App\Models\UsersModel::isEmailExists
+#0 C:\xampp\htdocs\cafein\app\Controllers\Register.php(37): CodeIgniter\Model->__call('isEmailExists', Array)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Register->daftar_pelanggan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Register))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-03 20:59:25 --> Call to undefined method App\Models\UsersModel::isEmailExists
+#0 C:\xampp\htdocs\cafein\app\Controllers\Register.php(37): CodeIgniter\Model->__call('isEmailExists', Array)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Register->daftar_pelanggan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Register))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-03 21:01:43 --> Call to undefined method App\Models\UsersModel::isEmailExists
+#0 C:\xampp\htdocs\cafein\app\Controllers\Register.php(37): CodeIgniter\Model->__call('isEmailExists', Array)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Register->daftar_pelanggan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Register))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-03 21:14:41 --> Call to undefined method App\Models\UsersModel::isEmailExists
+#0 C:\xampp\htdocs\cafein\app\Controllers\Register.php(37): CodeIgniter\Model->__call('isEmailExists', Array)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Register->daftar_pelanggan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Register))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-03 21:37:59 --> Maximum execution time of 30 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

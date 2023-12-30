@@ -1,0 +1,847 @@
+ERROR - 2023-11-16 21:04:02 --> View 'cafein.pembelian' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them
+CRITICAL - 2023-11-16 21:04:02 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(42): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanSemua()
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-11-16 21:04:09 --> View 'cafein.pembelian' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them
+CRITICAL - 2023-11-16 21:04:09 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(42): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanSemua()
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-11-16 21:04:13 --> View 'cafein.pembelian' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them
+CRITICAL - 2023-11-16 21:04:13 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(42): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanSemua()
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-11-16 21:04:16 --> View 'cafein.pembelian' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them
+CRITICAL - 2023-11-16 21:04:16 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(42): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanSemua()
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-11-16 21:04:18 --> View 'cafein.pembelian' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them
+CRITICAL - 2023-11-16 21:04:18 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(82): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanAntrian()
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-11-16 21:04:19 --> View 'cafein.pembelian' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them
+CRITICAL - 2023-11-16 21:04:19 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(52): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanMenu()
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-11-16 21:06:26 --> View 'cafein.pembelian' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them
+CRITICAL - 2023-11-16 21:06:26 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(42): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanSemua()
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-11-16 21:06:31 --> View 'cafein.pembelian' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them
+CRITICAL - 2023-11-16 21:06:31 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(42): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanSemua()
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-11-16 21:07:18 --> Table 'cafein.pembelian' doesn't exist
+CRITICAL - 2023-11-16 21:07:18 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(42): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanSemua()
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-11-16 21:12:25 --> Table 'cafein.pembelian' doesn't exist
+CRITICAL - 2023-11-16 21:12:25 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(42): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanSemua()
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-11-16 21:19:03 --> Table 'cafein.pembelian' doesn't exist
+CRITICAL - 2023-11-16 21:19:03 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(42): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanSemua()
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-11-16 21:19:07 --> Table 'cafein.pembelian' doesn't exist
+CRITICAL - 2023-11-16 21:19:07 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(42): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanSemua()
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-11-16 21:21:48 --> Table 'cafein.user' doesn't exist
+CRITICAL - 2023-11-16 21:21:48 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(31): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-11-16 21:21:51 --> Table 'cafein.user' doesn't exist
+CRITICAL - 2023-11-16 21:21:51 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(31): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-11-16 21:22:41 --> Table 'cafein.user' doesn't exist
+CRITICAL - 2023-11-16 21:22:41 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(31): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-11-16 21:24:00 --> Table 'cafein.user' doesn't exist
+CRITICAL - 2023-11-16 21:24:00 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(31): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cafein\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\cafein\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2023-11-16 21:24:01 --> Table 'cafein.user' doesn't exist
+CRITICAL - 2023-11-16 21:24:01 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(31): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cafein\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\cafein\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2023-11-16 21:24:22 --> Table 'cafein.user' doesn't exist
+CRITICAL - 2023-11-16 21:24:22 --> Table 'cafein.user' doesn't exist
+#0 C:\xampp\htdocs\cafein\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\cafein\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\cafein\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(31): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-11-16 21:24:22 --> Uncaught ErrorException: strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\cafein\system\Validation\FormatRules.php:253
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\app\Views\errors\html\error_exception.php(206): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(229): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#6 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(116): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#8 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2023-11-16 21:25:29 --> Table 'cafein.user' doesn't exist
+CRITICAL - 2023-11-16 21:25:29 --> Table 'cafein.user' doesn't exist
+#0 C:\xampp\htdocs\cafein\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\cafein\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\cafein\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(31): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-11-16 21:25:29 --> Uncaught ErrorException: strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\cafein\system\Validation\FormatRules.php:253
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\app\Views\errors\html\error_exception.php(206): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(229): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#6 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(116): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#8 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2023-11-16 21:25:32 --> Table 'cafein.user' doesn't exist
+CRITICAL - 2023-11-16 21:25:32 --> Table 'cafein.user' doesn't exist
+#0 C:\xampp\htdocs\cafein\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\cafein\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\cafein\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(31): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-11-16 21:25:32 --> Uncaught ErrorException: strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\cafein\system\Validation\FormatRules.php:253
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\app\Views\errors\html\error_exception.php(206): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(229): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#6 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(116): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#8 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2023-11-16 21:26:58 --> Table 'cafein.user' doesn't exist
+CRITICAL - 2023-11-16 21:26:58 --> Table 'cafein.user' doesn't exist
+#0 C:\xampp\htdocs\cafein\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\cafein\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\cafein\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(31): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-11-16 21:26:58 --> Uncaught ErrorException: strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\cafein\system\Validation\FormatRules.php:253
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\app\Views\errors\html\error_exception.php(206): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(229): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#6 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(116): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#8 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2023-11-16 21:27:00 --> Table 'cafein.user' doesn't exist
+CRITICAL - 2023-11-16 21:27:00 --> Table 'cafein.user' doesn't exist
+#0 C:\xampp\htdocs\cafein\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\cafein\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\cafein\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(31): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-11-16 21:27:00 --> Uncaught ErrorException: strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\cafein\system\Validation\FormatRules.php:253
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\app\Views\errors\html\error_exception.php(206): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(229): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#6 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(116): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#8 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2023-11-16 21:27:04 --> Table 'cafein.user' doesn't exist
+CRITICAL - 2023-11-16 21:27:04 --> Table 'cafein.user' doesn't exist
+#0 C:\xampp\htdocs\cafein\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\cafein\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\cafein\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(31): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-11-16 21:27:04 --> Uncaught ErrorException: strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\cafein\system\Validation\FormatRules.php:253
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\app\Views\errors\html\error_exception.php(206): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(229): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#6 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(116): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#8 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2023-11-16 21:27:59 --> Table 'cafein.user' doesn't exist
+CRITICAL - 2023-11-16 21:27:59 --> Table 'cafein.user' doesn't exist
+#0 C:\xampp\htdocs\cafein\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\cafein\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\cafein\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(31): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-11-16 21:27:59 --> Uncaught ErrorException: strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\cafein\system\Validation\FormatRules.php:253
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\app\Views\errors\html\error_exception.php(206): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(229): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#6 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(116): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#8 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2023-11-16 21:28:02 --> Table 'cafein.user' doesn't exist
+CRITICAL - 2023-11-16 21:28:02 --> Table 'cafein.user' doesn't exist
+#0 C:\xampp\htdocs\cafein\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\cafein\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\cafein\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(31): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-11-16 21:28:02 --> Uncaught ErrorException: strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\cafein\system\Validation\FormatRules.php:253
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\app\Views\errors\html\error_exception.php(206): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(229): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#6 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(116): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#8 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2023-11-16 21:28:30 --> Table 'cafein.user' doesn't exist
+CRITICAL - 2023-11-16 21:28:30 --> Table 'cafein.user' doesn't exist
+#0 C:\xampp\htdocs\cafein\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\cafein\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\cafein\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(31): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-11-16 21:28:30 --> Uncaught ErrorException: strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\cafein\system\Validation\FormatRules.php:253
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\app\Views\errors\html\error_exception.php(206): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(229): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#6 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(116): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#8 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2023-11-16 21:34:57 --> Table 'cafein.user' doesn't exist
+CRITICAL - 2023-11-16 21:34:57 --> Table 'cafein.user' doesn't exist
+#0 C:\xampp\htdocs\cafein\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\cafein\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\cafein\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(31): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-11-16 21:34:57 --> Uncaught ErrorException: strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\cafein\system\Validation\FormatRules.php:253
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\app\Views\errors\html\error_exception.php(206): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(229): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#6 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(116): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#8 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2023-11-16 21:37:49 --> Table 'cafein.user' doesn't exist
+CRITICAL - 2023-11-16 21:37:49 --> Table 'cafein.user' doesn't exist
+#0 C:\xampp\htdocs\cafein\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\cafein\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\cafein\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(31): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-11-16 21:37:49 --> Uncaught ErrorException: strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\cafein\system\Validation\FormatRules.php:253
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\app\Views\errors\html\error_exception.php(206): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(229): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#6 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(116): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#8 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2023-11-16 21:40:48 --> Table 'cafein.user' doesn't exist
+CRITICAL - 2023-11-16 21:40:48 --> Table 'cafein.user' doesn't exist
+#0 C:\xampp\htdocs\cafein\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\cafein\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\cafein\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafein\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(31): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-11-16 21:40:49 --> Uncaught ErrorException: strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\cafein\system\Validation\FormatRules.php:253
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\app\Views\errors\html\error_exception.php(206): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(229): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#6 C:\xampp\htdocs\cafein\system\Debug\Exceptions.php(116): CodeIgniter\Debug\Exceptions->render(Object(mysqli_sql_exception), 500)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(mysqli_sql_exception))
+#8 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-11-16 21:42:46 --> strtolower(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\system\Config\Services.php(570): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#5 C:\xampp\htdocs\cafein\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#6 C:\xampp\htdocs\cafein\system\Config\Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#7 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session()
+#8 C:\xampp\htdocs\cafein\system\Common.php(909): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 C:\xampp\htdocs\cafein\app\Views\dashboard.php(47): session()
+#10 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#12 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('dashboard', Array, true)
+#13 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(40): view('dashboard', Array)
+#14 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#15 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#16 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#17 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#18 {main}
+CRITICAL - 2023-11-16 21:42:52 --> strtolower(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\system\Config\Services.php(570): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#5 C:\xampp\htdocs\cafein\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#6 C:\xampp\htdocs\cafein\system\Config\Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#7 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session()
+#8 C:\xampp\htdocs\cafein\system\Common.php(909): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 C:\xampp\htdocs\cafein\app\Views\dashboard.php(47): session()
+#10 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#12 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('dashboard', Array, true)
+#13 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(40): view('dashboard', Array)
+#14 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#15 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#16 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#17 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#18 {main}
+CRITICAL - 2023-11-16 21:42:55 --> strtolower(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\system\Config\Services.php(570): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#5 C:\xampp\htdocs\cafein\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#6 C:\xampp\htdocs\cafein\system\Config\Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#7 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session()
+#8 C:\xampp\htdocs\cafein\system\Common.php(909): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 C:\xampp\htdocs\cafein\app\Views\dashboard.php(47): session()
+#10 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#12 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('dashboard', Array, true)
+#13 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(40): view('dashboard', Array)
+#14 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#15 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#16 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#17 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#18 {main}
+CRITICAL - 2023-11-16 21:43:02 --> strtolower(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\system\Config\Services.php(570): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#5 C:\xampp\htdocs\cafein\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#6 C:\xampp\htdocs\cafein\system\Config\Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#7 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session()
+#8 C:\xampp\htdocs\cafein\system\Common.php(909): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 C:\xampp\htdocs\cafein\app\Views\dashboard.php(47): session()
+#10 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#12 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('dashboard', Array, true)
+#13 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(40): view('dashboard', Array)
+#14 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#15 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#16 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#17 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#18 {main}
+CRITICAL - 2023-11-16 21:44:58 --> strtolower(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\system\Config\Services.php(570): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#5 C:\xampp\htdocs\cafein\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#6 C:\xampp\htdocs\cafein\system\Config\Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#7 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session()
+#8 C:\xampp\htdocs\cafein\system\Common.php(909): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 C:\xampp\htdocs\cafein\app\Views\dashboard.php(47): session()
+#10 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#12 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('dashboard', Array, true)
+#13 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(40): view('dashboard', Array)
+#14 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#15 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#16 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#17 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#18 {main}
+CRITICAL - 2023-11-16 21:46:45 --> strtolower(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\system\Config\Services.php(570): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#5 C:\xampp\htdocs\cafein\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#6 C:\xampp\htdocs\cafein\system\Config\Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#7 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session()
+#8 C:\xampp\htdocs\cafein\system\Common.php(909): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 C:\xampp\htdocs\cafein\app\Views\dashboard.php(47): session()
+#10 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#12 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('dashboard', Array, true)
+#13 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(40): view('dashboard', Array)
+#14 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#15 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#16 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#17 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#18 {main}
+CRITICAL - 2023-11-16 21:46:47 --> strtolower(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\system\Config\Services.php(570): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#5 C:\xampp\htdocs\cafein\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#6 C:\xampp\htdocs\cafein\system\Config\Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#7 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session()
+#8 C:\xampp\htdocs\cafein\system\Common.php(909): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 C:\xampp\htdocs\cafein\app\Views\dashboard.php(47): session()
+#10 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#12 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('dashboard', Array, true)
+#13 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(40): view('dashboard', Array)
+#14 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#15 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#16 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#17 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#18 {main}
+CRITICAL - 2023-11-16 21:46:49 --> strtolower(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\system\Config\Services.php(570): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#5 C:\xampp\htdocs\cafein\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#6 C:\xampp\htdocs\cafein\system\Config\Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#7 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session()
+#8 C:\xampp\htdocs\cafein\system\Common.php(909): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 C:\xampp\htdocs\cafein\app\Views\dashboard.php(47): session()
+#10 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#12 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('dashboard', Array, true)
+#13 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(40): view('dashboard', Array)
+#14 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#15 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#16 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#17 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#18 {main}
+CRITICAL - 2023-11-16 21:46:51 --> strtolower(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\system\Config\Services.php(570): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#5 C:\xampp\htdocs\cafein\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#6 C:\xampp\htdocs\cafein\system\Config\Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#7 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session()
+#8 C:\xampp\htdocs\cafein\system\Common.php(909): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 C:\xampp\htdocs\cafein\app\Views\dashboard.php(47): session()
+#10 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#12 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('dashboard', Array, true)
+#13 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(40): view('dashboard', Array)
+#14 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#15 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#16 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#17 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#18 {main}
+CRITICAL - 2023-11-16 21:46:52 --> strtolower(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\system\Config\Services.php(570): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#5 C:\xampp\htdocs\cafein\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#6 C:\xampp\htdocs\cafein\system\Config\Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#7 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session()
+#8 C:\xampp\htdocs\cafein\system\Common.php(909): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 C:\xampp\htdocs\cafein\app\Views\dashboard.php(47): session()
+#10 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#12 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('dashboard', Array, true)
+#13 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(40): view('dashboard', Array)
+#14 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#15 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#16 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#17 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#18 {main}
+CRITICAL - 2023-11-16 21:47:07 --> strtolower(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\system\Config\Services.php(570): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#5 C:\xampp\htdocs\cafein\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#6 C:\xampp\htdocs\cafein\system\Config\Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#7 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session()
+#8 C:\xampp\htdocs\cafein\system\Common.php(909): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 C:\xampp\htdocs\cafein\app\Views\dashboard.php(47): session()
+#10 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#12 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('dashboard', Array, true)
+#13 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(40): view('dashboard', Array)
+#14 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#15 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#16 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#17 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#18 {main}
+CRITICAL - 2023-11-16 21:55:02 --> filter_var(): Passing null to parameter #3 ($options) of type array|int is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'filter_var(): P...', 'C:\\xampp\\htdocs...', 269)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(269): filter_var('::1', 275, NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\system\Config\Services.php(570): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#5 C:\xampp\htdocs\cafein\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#6 C:\xampp\htdocs\cafein\system\Config\Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#7 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session()
+#8 C:\xampp\htdocs\cafein\system\Common.php(909): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 C:\xampp\htdocs\cafein\app\Controllers\Admin.php(12): session()
+#10 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Admin->index()
+#11 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#12 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2023-11-16 21:55:05 --> filter_var(): Passing null to parameter #3 ($options) of type array|int is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'filter_var(): P...', 'C:\\xampp\\htdocs...', 269)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(269): filter_var('::1', 275, NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\system\Config\Services.php(570): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#5 C:\xampp\htdocs\cafein\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#6 C:\xampp\htdocs\cafein\system\Config\Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#7 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session()
+#8 C:\xampp\htdocs\cafein\system\Common.php(909): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 C:\xampp\htdocs\cafein\app\Controllers\Admin.php(12): session()
+#10 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Admin->index()
+#11 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#12 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2023-11-16 21:55:46 --> filter_var(): Passing null to parameter #3 ($options) of type array|int is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'filter_var(): P...', 'C:\\xampp\\htdocs...', 294)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(294): filter_var('::1', 275, NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\system\Config\Services.php(570): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#5 C:\xampp\htdocs\cafein\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#6 C:\xampp\htdocs\cafein\system\Config\Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#7 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session()
+#8 C:\xampp\htdocs\cafein\system\Common.php(909): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 C:\xampp\htdocs\cafein\app\Controllers\Admin.php(12): session()
+#10 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Admin->index()
+#11 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#12 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2023-11-16 21:55:50 --> filter_var(): Passing null to parameter #3 ($options) of type array|int is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'filter_var(): P...', 'C:\\xampp\\htdocs...', 294)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(294): filter_var('::1', 275, NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\system\Config\Services.php(570): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#5 C:\xampp\htdocs\cafein\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#6 C:\xampp\htdocs\cafein\system\Config\Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#7 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session()
+#8 C:\xampp\htdocs\cafein\system\Common.php(909): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 C:\xampp\htdocs\cafein\app\Controllers\Admin.php(12): session()
+#10 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Admin->index()
+#11 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#12 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2023-11-16 21:56:30 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'number_format()...', 'C:\\xampp\\htdocs...', 934)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(934): number_format(NULL, 6)
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\Database.php(111): CodeIgniter\Database\BaseConnection->getConnectDuration()
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\BaseCollector.php(115): CodeIgniter\Debug\Toolbar\Collectors\Database->formatTimelineData()
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\BaseCollector.php(231): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->timelineData()
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(90): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#6 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(364): CodeIgniter\Debug\Toolbar->run(1700193389.917, 0.217, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#7 C:\xampp\htdocs\cafein\system\Filters\DebugToolbar.php(40): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#8 C:\xampp\htdocs\cafein\system\Filters\Filters.php(196): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(427): CodeIgniter\Filters\Filters->run('Laporan', 'after')
+#10 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-11-16 21:56:36 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'number_format()...', 'C:\\xampp\\htdocs...', 934)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(934): number_format(NULL, 6)
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\Database.php(111): CodeIgniter\Database\BaseConnection->getConnectDuration()
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\BaseCollector.php(115): CodeIgniter\Debug\Toolbar\Collectors\Database->formatTimelineData()
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\BaseCollector.php(231): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->timelineData()
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(90): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#6 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(364): CodeIgniter\Debug\Toolbar->run(1700193396.7171, 0.2107, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#7 C:\xampp\htdocs\cafein\system\Filters\DebugToolbar.php(40): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#8 C:\xampp\htdocs\cafein\system\Filters\Filters.php(196): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(427): CodeIgniter\Filters\Filters->run('Laporan', 'after')
+#10 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-11-16 21:57:10 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'number_format()...', 'C:\\xampp\\htdocs...', 934)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(934): number_format(NULL, 6)
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\Database.php(111): CodeIgniter\Database\BaseConnection->getConnectDuration()
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\BaseCollector.php(115): CodeIgniter\Debug\Toolbar\Collectors\Database->formatTimelineData()
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\BaseCollector.php(231): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->timelineData()
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(90): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#6 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(364): CodeIgniter\Debug\Toolbar->run(1700193430.5991, 0.2849, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#7 C:\xampp\htdocs\cafein\system\Filters\DebugToolbar.php(40): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#8 C:\xampp\htdocs\cafein\system\Filters\Filters.php(196): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(427): CodeIgniter\Filters\Filters->run('User', 'after')
+#10 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-11-16 21:58:33 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'number_format()...', 'C:\\xampp\\htdocs...', 934)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(934): number_format(NULL, 6)
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\Database.php(111): CodeIgniter\Database\BaseConnection->getConnectDuration()
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\BaseCollector.php(115): CodeIgniter\Debug\Toolbar\Collectors\Database->formatTimelineData()
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\BaseCollector.php(231): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->timelineData()
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(90): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#6 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(364): CodeIgniter\Debug\Toolbar->run(1700193513.0048, 0.5533, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#7 C:\xampp\htdocs\cafein\system\Filters\DebugToolbar.php(40): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#8 C:\xampp\htdocs\cafein\system\Filters\Filters.php(196): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(427): CodeIgniter\Filters\Filters->run('Laporan', 'after')
+#10 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-11-16 22:03:38 --> strtolower(): Passing null to parameter #1 ($string) of type string is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'strtolower(): P...', 'C:\\xampp\\htdocs...', 253)
+#1 C:\xampp\htdocs\cafein\system\Validation\FormatRules.php(253): strtolower(NULL)
+#2 C:\xampp\htdocs\cafein\system\HTTP\RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip('::1')
+#3 C:\xampp\htdocs\cafein\system\Config\Services.php(570): CodeIgniter\HTTP\Request->getIPAddress()
+#4 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#5 C:\xampp\htdocs\cafein\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#6 C:\xampp\htdocs\cafein\system\Config\Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#7 C:\xampp\htdocs\cafein\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session()
+#8 C:\xampp\htdocs\cafein\system\Common.php(909): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(28): session()
+#10 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->index()
+#11 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#12 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}

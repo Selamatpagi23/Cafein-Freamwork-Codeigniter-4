@@ -1,0 +1,1557 @@
+CRITICAL - 2023-11-25 14:49:06 --> Undefined array key "foto"
+#0 C:\xampp\htdocs\cafein\app\Views\modalMenuFavorit\index.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 55)
+#1 C:\xampp\htdocs\cafein\app\Views\dashboard.php(631): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('dashboard', Array, true)
+#5 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(43): view('dashboard', Array)
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 14:53:38 --> Undefined array key "foto"
+#0 C:\xampp\htdocs\cafein\app\Views\modalMenuFavorit\index.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 56)
+#1 C:\xampp\htdocs\cafein\app\Views\dashboard.php(631): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('dashboard', Array, true)
+#5 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(43): view('dashboard', Array)
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 03:08:04 --> Cannot use App\Models\PembelianModel as PembelianModel because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-11-25 03:08:05 --> Cannot use App\Models\PembelianModel as PembelianModel because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-11-25 03:08:06 --> Cannot use App\Models\PembelianModel as PembelianModel because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-11-25 03:08:07 --> Cannot use App\Models\PembelianModel as PembelianModel because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-11-25 03:08:08 --> Cannot use App\Models\PembelianModel as PembelianModel because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-11-25 03:08:13 --> Cannot redeclare App\Controllers\Dashboard::$pembelianModel
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-11-25 03:08:14 --> Cannot redeclare App\Controllers\Dashboard::$pembelianModel
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-11-25 03:08:15 --> Cannot redeclare App\Controllers\Dashboard::$pembelianModel
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-11-25 03:08:16 --> Cannot redeclare App\Controllers\Dashboard::$pembelianModel
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-11-25 03:08:17 --> Cannot redeclare App\Controllers\Dashboard::$pembelianModel
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-11-25 03:10:09 --> syntax error, unexpected token ")"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 03:10:09 --> syntax error, unexpected token ")"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 03:10:10 --> syntax error, unexpected token ")"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 03:10:11 --> syntax error, unexpected token ")"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 03:10:12 --> syntax error, unexpected token ")"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 03:10:13 --> syntax error, unexpected token ")"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 03:10:14 --> syntax error, unexpected token ")"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 03:10:15 --> syntax error, unexpected token ")"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 03:10:16 --> syntax error, unexpected token ")"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 03:10:17 --> syntax error, unexpected token ")"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 03:10:27 --> syntax error, unexpected variable "$email", expecting "("
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 03:10:28 --> syntax error, unexpected variable "$email", expecting "("
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 03:12:45 --> syntax error, unexpected identifier "bulan", expecting "]"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-11-25 03:16:47 --> Unknown column 'uemail' in 'where clause'
+CRITICAL - 2023-11-25 03:16:47 --> Unknown column 'uemail' in 'where clause'
+#0 C:\xampp\htdocs\cafein\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\cafein\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\cafein\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafein\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(103): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->joinMember()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2023-11-25 03:17:00 --> Unknown column 'email' in 'where clause'
+CRITICAL - 2023-11-25 03:17:00 --> Unknown column 'email' in 'where clause'
+#0 C:\xampp\htdocs\cafein\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\cafein\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\cafein\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafein\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(103): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->joinMember()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2023-11-25 03:17:04 --> Unknown column 'email' in 'where clause'
+CRITICAL - 2023-11-25 03:17:04 --> Unknown column 'email' in 'where clause'
+#0 C:\xampp\htdocs\cafein\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\cafein\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\cafein\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafein\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(103): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->joinMember()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2023-11-25 03:18:40 --> Unknown column 'email' in 'where clause'
+CRITICAL - 2023-11-25 03:18:40 --> Unknown column 'email' in 'where clause'
+#0 C:\xampp\htdocs\cafein\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\cafein\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\cafein\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\cafein\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafein\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(103): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->joinMember()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#9 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-11-25 03:19:01 --> syntax error, unexpected token ";", expecting identifier or variable or "{" or "$"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 03:20:33 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700904030.135, 7, 120, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 03:33:38 --> unlink(C:\xampp\htdocs\cafein\writable\debugbar/debugbar_1700904705.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp...', 'C:\\xampp\\htdocs...', 74)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\History.php(74): unlink('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1700904812, 20)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-25 03:39:58 --> Unmatched '}'
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 03:39:59 --> Unmatched '}'
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 03:40:00 --> Unmatched '}'
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 03:40:01 --> Unmatched '}'
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 03:40:02 --> Unmatched '}'
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard/dataO...')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard/dataO...')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 03:41:57 --> Call to undefined method App\Models\PesanMasukModel::second
+#0 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(97): CodeIgniter\Model->__call('second', Array)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->joinMember()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 17:21:56 --> Undefined array key "tertunda"
+#0 C:\xampp\htdocs\cafein\app\Views\modalStatusMember\index.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 21)
+#1 C:\xampp\htdocs\cafein\app\Views\dashboard.php(635): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('dashboard', Array, true)
+#5 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(47): view('dashboard', Array)
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 04:28:59 --> Undefined variable $totalTime
+#0 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 04:33:32 --> unlink(C:\xampp\htdocs\cafein\writable\debugbar/debugbar_1700908387.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp...', 'C:\\xampp\\htdocs...', 74)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\History.php(74): unlink('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1700908405, 20)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-25 04:33:32 --> unlink(C:\xampp\htdocs\cafein\writable\debugbar/debugbar_1700908386.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp...', 'C:\\xampp\\htdocs...', 74)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\History.php(74): unlink('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1700908408, 20)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-25 04:36:31 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700908572.6905, 7, 1820, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 04:37:13 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700908631.4356, 7, 115, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 04:38:33 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700908709.1816, 7, 130, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 04:42:56 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700908973.6746, 7, 80, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 04:43:26 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700909003.5495, 7, 95, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 04:44:05 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700909043.3681, 7, 90, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 04:44:34 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700909072.1346, 7, 110, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 04:44:58 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700909096.0792, 7, 80, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 04:47:57 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700909275.322, 7, 70, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 04:48:10 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700909288.244, 7, 95, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 04:48:22 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700909298.645, 7, 235, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 04:52:05 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700909521.6005, 7, 245, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 04:58:23 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700909901.2192, 7, 90, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 05:00:45 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700910043.7527, 7, 65, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 05:01:00 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700910059.2252, 7, 45, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 05:01:21 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700910079.4262, 7, 80, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 05:35:44 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700912115.7567, 7, 190, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 05:37:16 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700912231.5309, 7, 205, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 05:37:25 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700912241.9857, 7, 145, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 05:43:56 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700912630.6738, 7, 75, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 05:47:30 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700912839.6263, 7, 250, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 05:47:45 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700912859.7625, 7, 220, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 05:56:52 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700913409.65, 7, 85, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 06:17:59 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\xampp\htdocs\cafein\app\Models\PesanMasukModel.php(21): CodeIgniter\Model->update(Array)
+#4 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(34): App\Models\PesanMasukModel->updateStatus('3', 'terbayar')
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-25 06:21:37 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\xampp\htdocs\cafein\app\Models\PesanMasukModel.php(21): CodeIgniter\Model->update(Array)
+#4 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(34): App\Models\PesanMasukModel->updateStatus('3', 'terbayar')
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-25 06:23:10 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\xampp\htdocs\cafein\app\Models\PesanMasukModel.php(21): CodeIgniter\Model->update(Array)
+#4 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(34): App\Models\PesanMasukModel->updateStatus('3', 'terbayar')
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-25 06:27:57 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\xampp\htdocs\cafein\app\Models\PesanMasukModel.php(21): CodeIgniter\Model->update(Array)
+#4 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(34): App\Models\PesanMasukModel->updateStatus('3', 'terbayar')
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-25 06:29:16 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\xampp\htdocs\cafein\app\Models\PesanMasukModel.php(21): CodeIgniter\Model->update(Array)
+#4 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(34): App\Models\PesanMasukModel->updateStatus('3', 'terbayar')
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-25 06:30:22 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\xampp\htdocs\cafein\app\Models\PesanMasukModel.php(21): CodeIgniter\Model->update(Array)
+#4 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(34): App\Models\PesanMasukModel->updateStatus('3', 'terbayar')
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-25 06:32:56 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\xampp\htdocs\cafein\app\Models\PesanMasukModel.php(21): CodeIgniter\Model->update(Array)
+#4 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(34): App\Models\PesanMasukModel->updateStatus('3', 'terbayar')
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-25 06:36:16 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(39): CodeIgniter\Model->update(Array)
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-25 06:39:56 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(39): CodeIgniter\Model->update(Array)
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-25 06:42:11 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(39): CodeIgniter\Model->update(Array)
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-25 06:43:48 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(39): CodeIgniter\Model->update(Array)
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-25 06:47:26 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(39): CodeIgniter\Model->update(Array)
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-25 06:49:15 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(39): CodeIgniter\Model->update(Array)
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-25 06:53:15 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 06:55:59 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 06:57:39 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 06:59:01 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 06:59:22 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 06:59:48 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 07:00:21 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 07:04:33 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 07:05:30 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 07:05:41 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:10:50 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:12:14 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700935927.7666, 7, 155, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 12:12:20 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700935936.9016, 7, 75, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 12:12:32 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:14:10 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700936045.9494, 7, 125, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 12:17:11 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:17:46 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:18:04 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:18:31 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:18:37 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:19:07 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:19:47 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:20:23 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:20:46 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:21:40 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:22:29 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:23:34 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:25:57 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:26:23 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:28:23 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:29:59 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:30:53 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:32:02 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 12:34:13 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 18:43:14 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700959388.2388, 7, 75, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 18:43:17 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 18:45:02 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700959497.0662, 7, 45, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 18:45:40 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700959531.2128, 7, 110, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 18:45:53 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 18:47:47 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700959662.2003, 7, 80, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 18:47:50 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 18:49:11 --> unlink(C:\xampp\htdocs\cafein\writable\debugbar/debugbar_1700959677.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp...', 'C:\\xampp\\htdocs...', 74)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\History.php(74): unlink('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1700959733, 20)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-25 18:49:16 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 18:50:20 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700959809.602, 7, 70, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 18:50:26 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 18:51:58 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 18:53:19 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700959982.9076, 7, 85, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 18:53:21 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 18:56:39 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700960194.2597, 7, 40, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 18:57:42 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 18:57:42 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700960252.6468, 7, 65, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 19:00:41 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700960433.0392, 7, 130, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 19:00:44 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:00:56 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:00:57 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:00:58 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:00:59 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:01:58 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:01:58 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700960510.3543, 7, 45, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 19:03:19 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700960592.7169, 7, 75, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 19:04:23 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700960657.0717, 7, 85, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 19:04:57 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700960691.7783, 7, 105, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 19:05:39 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700960735.8686, 7, 75, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 19:06:09 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700960754.8856, 7, 75, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 19:06:34 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700960788.102, 7, 165, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 19:06:38 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:08:09 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1700960882.2653, 7, 60, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-25 19:12:21 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:15:52 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(54): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:16:57 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(54): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:18:40 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(54): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:22:28 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(99): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:23:56 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(54): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:27:30 --> Undefined variable $totalTime
+#0 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:28:57 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(54): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:29:24 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(54): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:32:53 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(54): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:35:57 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(54): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:46:31 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Models\PesanMasukModel.php(35): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(35): App\Models\PesanMasukModel->updateStatus('3', 'terbayar')
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-25 19:48:58 --> Undefined array key "status"
+#0 C:\xampp\htdocs\cafein\app\Models\PesanMasukModel.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(35): App\Models\PesanMasukModel->updateStatus(NULL, NULL)
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-11-25 19:52:37 --> Undefined array key "status"
+#0 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-25 19:54:22 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:54:28 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:54:51 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 19:55:50 --> There is no data to update.
+#0 C:\xampp\htdocs\cafein\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\cafein\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Array)
+#2 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(38): CodeIgniter\Model->update(Array, Array)
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#4 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-25 20:01:11 --> Call to undefined method App\Models\PesanMasukModel::updateOrInsert
+#0 C:\xampp\htdocs\cafein\app\Controllers\PesanMasuk.php(39): CodeIgniter\Model->__call('updateOrInsert', Array)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\PesanMasuk->updateStatus()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanMasuk))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

@@ -1,0 +1,43 @@
+:root {
+    --navbar-white: #fafafa;
+    --navbar-black: #131313;
+    --navbar-active-color: #fafafa;
+    --navbar-bg-active-color: #ff9900;
+    --bg-light-grey: #e0e0e0;
+    --bg-light-grey2: #e0e0e0;
+}
+
+.navbar {
+    color: var(--navbar-black);
+    background: var(--bg-light-grey);
+    background: -webkit-linear-gradient(55deg, var(--bg-light-grey) 10%, var(--bg-light-grey2) 90%);
+    background: linear-gradient(35deg, var(--bg-light-grey) 10%, var(--bg-light-grey2) 90%);
+}
+.navbar-nav .nav-item{
+    font-size: 18px;
+    font-weight: bold;
+} 
+.navbar .navbar-nav .loginUser{ 
+   display: flex;
+   align-items: center;
+}
+.navbar .navbar-nav .loginUser a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold; 
+    padding: 2px 15px 2px 15px;
+    background: grey;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer; 
+}
+.navbar .navbar-nav .loginUser a:hover{
+    background-color: red;
+    color: #fff;
+}
+@media (max-width: 990px) {
+    .navbar-collapse .navbar-nav {
+        margin-right: 100%;
+    }
+
+}

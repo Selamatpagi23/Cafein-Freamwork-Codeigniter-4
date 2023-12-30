@@ -1,0 +1,353 @@
+CRITICAL - 2023-11-27 00:09:16 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701065354.5577, 7, 50, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-27 00:09:21 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701065359.9161, 7, 35, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-27 11:20:28 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701105617.085, 7, 135, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-27 11:21:44 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701105691.3581, 7, 375, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-27 11:22:19 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701105735.8992, 7, 90, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-27 11:22:39 --> unlink(C:\xampp\htdocs\cafein\writable\debugbar/debugbar_1701105726.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp...', 'C:\\xampp\\htdocs...', 74)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\History.php(74): unlink('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1701105743, 20)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-27 11:30:48 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701106242.1355, 7, 175, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-27 12:05:23 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701108321.8141, 7, 40, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-27 12:58:24 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701111502.3282, 7, 100, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-27 13:03:12 --> Undefined array key "harga_akhir"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Antrian.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 75)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Antrian->rincianPesanan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Antrian))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-27 13:03:19 --> Undefined array key "harga_akhir"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Antrian.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 75)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Antrian->rincianPesanan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Antrian))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-27 13:07:10 --> Undefined array key "harga_akhir"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Antrian.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 76)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Antrian->rincianPesanan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Antrian))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-27 13:07:55 --> Undefined array key "harga_akhir"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Antrian.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 75)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Antrian->rincianPesanan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Antrian))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-27 13:08:45 --> Undefined array key "harga_akhir"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Antrian.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 76)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Antrian->rincianPesanan()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Antrian))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-27 13:11:34 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701112292.2552, 7, 30, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-27 13:12:18 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701112336.7035, 7, 40, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-27 13:12:51 --> Undefined array key "totalBayar"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 71)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanMenu()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-27 13:13:26 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701112403.4345, 7, 45, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-27 13:13:48 --> Undefined array key "totalBayar"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 71)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanMenu()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-27 13:14:33 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701112469.688, 7, 125, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-27 13:14:37 --> Undefined array key "totalBayar"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 71)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanMenu()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-27 13:14:40 --> Undefined array key "totalBayar"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 100)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanAntrian()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-27 13:15:08 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701112505.2174, 7, 75, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-27 13:15:10 --> Undefined array key "totalBayar"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 71)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanMenu()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-27 13:15:18 --> Undefined array key "totalBayar"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 100)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanAntrian()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-27 13:16:45 --> unlink(C:\xampp\htdocs\cafein\writable\debugbar/debugbar_1701112522.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp...', 'C:\\xampp\\htdocs...', 74)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\History.php(74): unlink('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1701112599, 20)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-27 13:16:47 --> Undefined array key "totalBayar"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 71)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanMenu()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-27 13:16:50 --> Undefined array key "totalBayar"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 71)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanMenu()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-27 13:16:52 --> Undefined array key "totalBayar"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 100)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanAntrian()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-27 13:17:19 --> Undefined array key "totalBayar"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 71)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanMenu()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-27 13:17:38 --> Undefined array key "totalBayar"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 71)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanMenu()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-27 13:17:39 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701112652.738, 7, 275, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-27 13:17:56 --> Undefined array key "totalBayar"
+#0 C:\xampp\htdocs\cafein\app\Controllers\Laporan.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 71)
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Laporan->laporanMenu()
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-27 13:20:30 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701112823.3178, 7, 60, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-27 18:24:43 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701131077.9852, 7, 40, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-11-27 18:42:21 --> file_get_contents(C:\xampp\htdocs\cafein\writable\debugbar/debugbar_1701132115.json): Failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\xampp\\htdocs...', 80)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Collectors\History.php(80): file_get_contents('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1701132130, 20)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-27 18:42:21 --> Unsupported operand types: null + string
+#0 [internal function]: CodeIgniter\Debug\Toolbar::CodeIgniter\Debug\{closure}(Array, 0)
+#1 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(272): array_walk(Array, Object(Closure))
+#2 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(170): CodeIgniter\Debug\Toolbar->collectTimelineData(Array)
+#3 C:\xampp\htdocs\cafein\system\Debug\Toolbar\Views\toolbar.tpl.php(96): CodeIgniter\Debug\Toolbar->renderTimeline(Array, 1701132132.0241, 7, 530, Array)
+#4 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cafein\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#6 C:\xampp\htdocs\cafein\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#7 C:\xampp\htdocs\cafein\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#8 C:\xampp\htdocs\cafein\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#9 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}

@@ -1,0 +1,24 @@
+CRITICAL - 2023-10-31 02:52:57 --> Call to undefined method CodeIgniter\Session\Session::with()
+#0 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Login->logout()
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-10-31 08:23:52 --> Undefined variable $user_role
+#0 C:\xampp\htdocs\cafein\app\Views\dashboard.php(621): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 621)
+#1 C:\xampp\htdocs\cafein\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\cafein\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\cafein\system\Common.php(1097): CodeIgniter\View\View->render('dashboard', Array, true)
+#4 C:\xampp\htdocs\cafein\app\Controllers\Dashboard.php(33): view('dashboard', Array)
+#5 C:\xampp\htdocs\cafein\system\CodeIgniter.php(824): App\Controllers\Dashboard->index()
+#6 C:\xampp\htdocs\cafein\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#7 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafein\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-31 08:54:48 --> syntax error, unexpected token "}", expecting ";"
+#0 C:\xampp\htdocs\cafein\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Dashboard')
+#1 C:\xampp\htdocs\cafein\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Dashboard')
+#2 C:\xampp\htdocs\cafein\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\cafein\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\cafein\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
