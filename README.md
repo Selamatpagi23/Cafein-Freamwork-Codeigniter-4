@@ -1,4 +1,4 @@
-http:/localhost/cafein/
+http:/localhost/cafein
 untuk halaman pelanggan
 untuk username melia@gmail.com password Melia123%
 
