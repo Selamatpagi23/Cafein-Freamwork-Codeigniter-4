@@ -1,5 +1,8 @@
 Perlu diketahui ini adalah website pengembangan dari Channel Youtube MN Belajar Web (https://youtu.be/vn7HxXPCg9s?si=DC2LT9FNE_L9NpZ0)
 
+Disarankan menggunakan xampp versi (xampp-windows-x64-8.2.4-0)
+Letakkan file cafein di C:\xampp\htdocs\cafein
+
 http://localhost/cafein
 untuk halaman pelanggan
 untuk username melia@gmail.com password Melia123%
