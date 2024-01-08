@@ -1,5 +1,7 @@
 Perlu diketahui ini adalah website pengembangan dari Channel Youtube MN Belajar Web (https://youtu.be/vn7HxXPCg9s?si=DC2LT9FNE_L9NpZ0)
 
+JANGAN GANTI FILE CAFEIN DENGAN NAMA LAIN JIKA TIDAK INGIN MENGALAMI EROR!!!
+
 Disarankan menggunakan xampp versi (xampp-windows-x64-8.2.4-0) dan php versi 8
 Letakkan file cafein di C:\xampp\htdocs\
 
