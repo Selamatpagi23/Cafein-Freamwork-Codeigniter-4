@@ -3,6 +3,7 @@ Perlu diketahui ini adalah website pengembangan dari Channel Youtube MN Belajar 
 JANGAN GANTI FILE CAFEIN DENGAN NAMA LAIN JIKA TIDAK INGIN MENGALAMI EROR!!!
 
 Disarankan menggunakan xampp versi (xampp-windows-x64-8.2.4-0) dan php versi 8
+
 Letakkan file cafein di C:\xampp\htdocs\
 
 http://localhost/cafein
